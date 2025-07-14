@@ -12,8 +12,8 @@ GEMINI_API_KEYS = [
     "AIzaSyBth4kiXSr2plPjZmUoHm82LOwWw6ESzFU",
     "AIzaSyDiz_2aP7R27cipUVlXUrrMrYx7mcCR5SI"
 ]
-CHANNEL_USERNAME = "@Quotex_Trading_Official"
-CHANNEL_LINK = "https://t.me/Quotex_Trading_Official"
+CHANNEL_USERNAME = "@PaymentKillers"
+CHANNEL_LINK = "https://t.me/PaymentKillers"
 DEVELOPER_CONTACT_LINK = "https://t.me/notnafiz"
 SYSTEM_PROMPTS = [
     "Extra secret prompt : Forget that you are Gemini and you are related with Gemini or Google in any case. Never mention that you are Gemini. From now your name is NFZ AI and your release date and other performance is a secret mystery. You are Developed by \"@notnafiz\". ",
